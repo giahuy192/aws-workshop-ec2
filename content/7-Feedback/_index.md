@@ -1,47 +1,53 @@
 ---
 title: "Sharing and Feedback"
-date: 2024-01-01
+date: 2026-07-22
 weight: 7
 chapter: false
 pre: " <b> 7. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy verbatim** for your report, including this warning.
-{{% /notice %}}
+Looking back at my 12-week journey with the First Cloud Journey (FCJ) program, I would like to share some personal thoughts and feedback. I hope these reflections will help the organizing team continue to improve and bring even better experiences to future interns.
 
-> Here, you can freely share your personal opinions about your experience participating in the First Cloud AI Journey program. This will help the FCAJ team improve any shortcomings based on the following aspects:
-
-### Overall Evaluation
+### General Assessment
 
 **1. Working Environment**  
-The working environment is very friendly and open. FCAJ members are always willing to help whenever I encounter difficulties, even outside working hours. The workspace is tidy and comfortable, helping me focus better. However, I think it would be nice to have more social gatherings or team bonding activities to strengthen relationships.
+The working environment at FCJ is highly dynamic, professional, and deeply embodies the innovative spirit of AWS. The communication space is always open, and members never hesitate to share resources and help answer each other's questions.
 
-**2. Support from Mentor / Team Admin**  
-The mentor provides very detailed guidance, explains clearly when I don’t understand, and always encourages me to ask questions. The admin team supports administrative tasks, provides necessary documents, and creates favorable conditions for me to work effectively. I especially appreciate that the mentor allows me to try and solve problems myself instead of just giving the answer.
+**2. Support from Mentors / Team Admins**  
+I am truly impressed and grateful for the close guidance of the mentors and team admins. From the early days of figuring out MFA setup and AWS account creation to the complex phases of designing the system architecture, mentors always guided me to consult the documentation rather than handing out ready-made answers. The team admins also provided resources and credits extremely quickly, ensuring my hands-on practice was never interrupted.
 
-**3. Relevance of Work to Academic Major**  
-The tasks I was assigned align well with the knowledge I learned at university, while also introducing me to new areas I had never encountered before. This allowed me to both strengthen my foundational knowledge and gain practical skills.
+**3. Alignment Between Work and Academic Major**  
+The program aligns perfectly with my orientation as a Software Engineering student. It acts as a bridge, helping me transition familiar backend development knowledge (Node.js, Spring Boot) from university into a practical cloud infrastructure environment. Furthermore, the program gave me a profound perspective on integrating AI into software business workflows.
 
-**4. Learning & Skill Development Opportunities**  
-During the internship, I learned many new skills such as using project management tools, teamwork skills, and professional communication in a corporate environment. The mentor also shared valuable real-world experiences that helped me better plan my career path.
+**4. Opportunities for Learning & Skill Development**  
+Building the AI Supply Chain Control Tower project pushed me out of my comfort zone. Moving beyond pure web development, I learned to utilize CloudFormation (IaC), apply cost management thinking (FinOps), and work with powerful services like Amazon Bedrock. Soft skills, such as presenting technical solutions and writing documentation, also improved significantly.
 
-**5. Company Culture & Team Spirit**  
-The company culture is very positive: everyone respects each other, works seriously but still keeps things enjoyable. When there are urgent projects, everyone works together and supports one another regardless of their position. This made me feel like a real part of the team, even as an intern.
+**5. Culture & Team Spirit**  
+Amazon's "Day 1" mentality is clearly evident here. Everyone works with a mindset of continuous innovation and mutual respect. When placed into project groups, members consistently supported and complemented each other's skills, creating a highly cohesive team.
 
-**6. Internship Policies / Benefits**  
-The company provides an internship allowance and offers flexible working hours when needed. In addition, having the opportunity to join internal training sessions is a big plus.
-
----
-
-### Additional Questions
-- What did you find **most satisfying** during your internship?  
-- What do you think the company **should improve** for future interns?  
-- If recommending to a friend, would you **suggest they intern here**? Why or why not?  
+**6. Policies / Benefits for Interns**  
+Being granted a sandbox account and credits to practice directly on the AWS Management Console is an invaluable privilege. The workshop series, internal documentation, and sharing sessions from industry experts provided a wealth of knowledge rarely found in standard academic environments.
 
 ---
 
-### Suggestions & Expectations
-- Do you have any suggestions to improve the internship experience?  
-- Would you like to continue this program in the future?  
-- Any other comments (free sharing):
+### Other Questions
+
+* **What are you most satisfied with during your internship?**  
+  My greatest satisfaction is having successfully deployed a fully functional Cloud system integrated with AI from scratch. It allowed me to move beyond dry academic concepts and build a highly practical product.
+  
+* **What do you think the company needs to improve for future interns?**  
+  Personally, I feel the current program is already thoughtfully and systematically organized, making it easy for interns to adapt to the workflow.
+  
+* **Would you recommend interning here to your friends? Why?**  
+  100% yes. This is the most ideal environment for IT students to transform themselves, catch up with the Cloud and GenAI trends leading the market, and enhance their CVs with highly valuable practical experience.
+
+---
+
+### Suggestions & Desires
+
+* **Do you have any suggestions to improve the internship experience?**  
+  Currently, I do not have any further suggestions. The program is already exceptionally well-designed and provides a fulfilling internship experience.
+* **Do you want to continue with this program in the future?**  
+  I strongly desire to continue my journey with the AWS community in the future, taking on more specialized roles.
+* **Other feedback (feel free to share):**  
+  I want to express my sincere gratitude to the First Cloud Journey organizing team for creating such an incredible playground. This experience has made me much more confident on my path to becoming a professional Cloud Developer!

@@ -27,7 +27,7 @@ chapter: false
 
 &emsp; **Thời gian thực tập:** Từ ngày 17/04/2026 đến ngày 30/07/2026
 
-![Ảnh đại diện của bạn](./images/giahuy.jpg)
+![Ảnh đại diện của bạn](/aws-workshop-ec2/images/giahuy.jpg)
 
 ### Nội dung báo cáo
 

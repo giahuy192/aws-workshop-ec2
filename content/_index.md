@@ -27,7 +27,7 @@ chapter: false
 
 &emsp; **Internship Duration:** From 17/04/2026 to 30/07/2026
 
-![Your profile picture](/aws-workshop-ec2/images/giahuy.jpg)
+![Your profile picture](images/giahuy.jpg)
 
 ### Report Content
 

@@ -135,7 +135,6 @@ Add the following rule:
 
 Only Lambda functions associated with **Lambda-SG** can access PostgreSQL.
 
-> Insert Screenshot: PostgreSQL Rule
 
 ---
 

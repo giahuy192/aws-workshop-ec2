@@ -122,7 +122,6 @@ Nhấn:
 Create Security Group
 ```
 
-> Chèn hình: Lambda Security Group
 
 ---
 
@@ -156,7 +155,7 @@ Thêm Rule:
 
 ✔ Chỉ các Lambda sử dụng Lambda-SG mới có quyền truy cập PostgreSQL.
 
-> Chèn hình: PostgreSQL Rule
+
 
 ---
 

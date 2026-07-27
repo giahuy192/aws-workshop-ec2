@@ -95,8 +95,6 @@ Nhập các thông tin sau:
 | IPv6 CIDR           | No IPv6            |
 | Tenancy             | Default            |
 
-> Chèn hình: Create VPC
-
 ---
 
 ### Bước 4. Tạo VPC
@@ -130,8 +128,6 @@ Edit VPC Settings
 ```
 
 Bật cả hai tùy chọn.
-
-> Chèn hình: Edit DNS Settings
 
 ---
 

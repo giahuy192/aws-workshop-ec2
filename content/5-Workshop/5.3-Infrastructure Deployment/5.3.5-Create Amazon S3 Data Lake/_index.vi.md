@@ -102,7 +102,6 @@ Create bucket
 | Object Ownership    | ACLs disabled           |
 | Block Public Access | Enable                  |
 
-> Chèn hình: Create Bucket
 
 ---
 
@@ -144,7 +143,6 @@ ai-results/
 logs/
 ```
 
-> Chèn hình: Folder Structure
 
 ---
 

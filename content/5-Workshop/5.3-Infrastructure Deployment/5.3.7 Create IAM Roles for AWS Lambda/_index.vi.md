@@ -99,8 +99,6 @@ Nhấn:
 Next
 ```
 
-> Chèn hình: Create IAM Role
-
 ---
 
 ## Bước 3. Thêm quyền
@@ -135,7 +133,6 @@ Nhấn:
 Create Role
 ```
 
-> Chèn hình: IAM Role Summary
 
 ---
 

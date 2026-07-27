@@ -76,7 +76,6 @@ Chọn:
 Databases
 ```
 
-> Chèn hình: Amazon RDS Dashboard
 
 ---
 
@@ -107,8 +106,6 @@ Chọn hai Private Subnets:
 - Private-Subnet-A
 - Private-Subnet-B
 
-> Chèn hình: DB Subnet Group
-
 ---
 
 ## Bước 3. Tạo Database
@@ -137,7 +134,7 @@ Thiết lập:
 | Engine | PostgreSQL |
 | Version | PostgreSQL 16.x (hoặc phiên bản ổn định mới nhất) |
 
-> Chèn hình: Database Engine
+
 
 ---
 
@@ -167,7 +164,7 @@ nếu không sử dụng Free Tier.
 | Master Username | postgres |
 | Master Password | ******** |
 
-> Chèn hình: Database Settings
+
 
 ---
 

@@ -110,7 +110,6 @@ Nhấn:
 Create Database
 ```
 
-> Chèn hình: Create Glue Database
 
 ---
 
@@ -227,7 +226,6 @@ reports
 
 Các bảng này sẽ được Amazon Athena sử dụng để thực hiện truy vấn SQL.
 
-> Chèn hình: Glue Tables
 
 ---
 

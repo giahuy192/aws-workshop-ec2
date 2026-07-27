@@ -159,7 +159,6 @@ Role này đã được tạo ở mục **5.3.7** và có quyền truy cập:
 | Subnets        | Private-Subnet-A, Private-Subnet-B |
 | Security Group | Lambda-SG                          |
 
-> Chèn hình: Lambda VPC Configuration
 
 ---
 

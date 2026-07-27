@@ -102,7 +102,6 @@ Email
 
 Cho phép người dùng sử dụng địa chỉ email để đăng nhập.
 
-> Chèn hình: Sign-in Options
 
 ---
 
@@ -114,7 +113,6 @@ Giữ cấu hình mặc định:
 - MFA: Optional hoặc Disabled (Workshop)
 - Self Registration: Enabled
 
-> Chèn hình: Security Configuration
 
 ---
 

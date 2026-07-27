@@ -148,7 +148,6 @@ Ví dụ JSON:
 }
 ```
 
-> Chèn hình: Secret JSON
 
 ---
 

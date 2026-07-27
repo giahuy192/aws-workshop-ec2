@@ -1,4 +1,4 @@
-baseURL = "https://giahuy192.github.io/aws-workshop-final/"
+baseURL = "https://giahuy192.github.io/aws-workshop-ec2/"
 relativeURLs = false
 canonifyURLs = true
 defaultContentLanguage = "en"

@@ -9,11 +9,11 @@ chapter: false
 
 ### Thông tin sinh viên:
 
-&emsp; **Họ và tên:** Nguyễn Cao Thành Chung
+&emsp; **Họ và tên:** Đặng Lê Gia Huy
 
-&emsp; **Số điện thoại:** 0935403359
+&emsp; **Số điện thoại:** 0908178863
 
-&emsp; **Email:** chungnguen65dn@gmail.com
+&emsp; **Email:** giahuyhuy192@gmail.com
 
 &emsp; **Trường:** Trường Đại Học Công Nghệ TP.HCM
 

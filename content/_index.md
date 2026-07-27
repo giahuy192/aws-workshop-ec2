@@ -9,11 +9,11 @@ chapter: false
 
 ### Student Information:
 
-&emsp; **Full Name:** Nguyễn Cao Thành Chung
+&emsp; **Full Name:** Đặng Lê Gia Huy
 
-&emsp; **Phone Number:** 0935403359
+&emsp; **Phone Number:** 0908178863
 
-&emsp; **Email:** chungnguen65dn@gmail.com
+&emsp; **Email:** giahuyhuy192@gmail.com
 
 &emsp; **University:** Ho Chi Minh City University of Technology and Education
 

@@ -189,14 +189,4 @@ Qua các buổi trao đổi, tôi học hỏi thêm nhiều kinh nghiệm thực
 
 #### Một số hình ảnh tham gia sự kiện
 
-<p align="center">
-  <img src="/images/4-Events/event2-1.jpg" width="45%" alt="Opening session">
-  <img src="/images/4-Events/event2-2.jpg" width="45%" alt="Workshop discussion">
-</p>
-
-<p align="center">
-  <img src="/images/4-Events/event2-3.jpg" width="45%" alt="Cloud architecture presentation">
-  <img src="/images/4-Events/event2-4.jpg" width="45%" alt="Multi-Agent architecture presentation">
-</p>
-
 > Nhìn chung, **AWS First Cloud AI Journey – Community Day** không chỉ mang lại nhiều kiến thức chuyên môn về Cloud và Generative AI mà còn giúp tôi hiểu rõ hơn về kiến trúc hiện đại, cách xây dựng hệ thống AI trên AWS cũng như định hướng áp dụng những công nghệ này vào các dự án học tập và công việc trong tương lai.

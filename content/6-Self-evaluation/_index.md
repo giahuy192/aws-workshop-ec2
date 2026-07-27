@@ -1,38 +1,38 @@
 ---
-title: "Self Assessment"
-date: 2024-01-01
+title: "Self-Assessment"
+date: 2026-07-22
 weight: 6
 chapter: false
 pre: " <b> 6. </b> "
 ---
 
-Throughout my participation in the **First Cloud AI Journey (FCAJ)** program from **April 14, 2026** to **July 5, 2026**, I had the opportunity to study, research, and gain hands-on experience with various **Amazon Web Services (AWS)** through technical workshops, practical labs, and a real-world project.
+Throughout my internship at Amazon Web Services Vietnam from April 17, 2026, to July 30, 2026, I had the valuable opportunity to learn, practice, and apply my academic knowledge in a real-world working environment. 
 
-During the internship, I researched and contributed to the design of the **AI Supply Chain Control Tower** project while exploring a wide range of AWS services, including **Amazon EC2, Amazon VPC, Amazon CloudWatch, AWS CloudFormation, Amazon EKS, Amazon Bedrock, Amazon S3, AWS Backup**, and many others. In addition, I participated in community events and technical workshops, allowing me to broaden my knowledge of Cloud Computing, Artificial Intelligence, and modern cloud architecture.
+In my role as a Cloud Developer Intern, I directly participated in researching, analyzing, and designing the architecture for the AI Supply Chain Control Tower project, while also provisioning core infrastructure services on AWS. Throughout this process, I significantly improved my technical skills, including System Design, Cloud Infrastructure, and Infrastructure as Code (IaC), as well as honing my analytical thinking, problem-solving capabilities, and technical writing.
 
-Through this internship, I strengthened my technical knowledge of cloud computing, improved my ability to conduct independent research, analyze technical documentation, design cloud architectures, and solve practical problems using AWS services.
+Regarding my work ethic, I consistently strived to complete assigned tasks effectively, proactively explored new technologies, and actively engaged in discussions with mentors and colleagues to enhance my overall work performance.
 
-To provide an objective evaluation of my internship performance, I have assessed myself based on the following criteria:
+To provide an objective reflection of my internship journey, I have evaluated myself based on the following criteria:
 
-| No. | Evaluation Criteria | Description | Excellent | Good | Average |
-| --- | ------------------- | -------------------------------------------------------------------------------- | :-------: | :--: | :-----: |
-| 1 | **Technical Knowledge & Skills** | Understanding and applying AWS, Cloud Computing, and AI technologies in practice | ✅ | ☐ | ☐ |
-| 2 | **Learning Ability** | Ability to quickly learn new technologies and continuously improve | ✅ | ☐ | ☐ |
-| 3 | **Initiative** | Proactively researching AWS services and completing assigned tasks | ✅ | ☐ | ☐ |
-| 4 | **Responsibility** | Completing assigned tasks on time while maintaining quality | ✅ | ☐ | ☐ |
-| 5 | **Discipline** | Following the internship schedule, workshop requirements, and program guidelines | ☐ | ✅ | ☐ |
-| 6 | **Continuous Improvement** | Accepting feedback and continuously improving personal skills | ✅ | ☐ | ☐ |
-| 7 | **Communication Skills** | Communicating ideas clearly and presenting work effectively | ☐ | ✅ | ☐ |
-| 8 | **Teamwork** | Collaborating effectively with mentors and fellow participants | ☐ | ✅ | ☐ |
-| 9 | **Professionalism** | Demonstrating professionalism and respect toward mentors and the AWS community | ✅ | ☐ | ☐ |
-| 10 | **Problem-solving Skills** | Identifying problems and proposing effective technical solutions | ☐ | ✅ | ☐ |
-| 11 | **Contribution to the Project/Program** | Completing workshops, hands-on labs, and contributing to the AI Supply Chain Control Tower project | ✅ | ☐ | ☐ |
-| 12 | **Overall Performance** | Overall evaluation of my internship performance | ✅ | ☐ | ☐ |
+| No. | Criteria | Description | Good | Fair | Average |
+| --- | -------- | ----------- | ---- | ---- | ------- |
+| 1 | **Professional Knowledge & Skills** | Understanding of the industry, practical application, tool proficiency, and work quality. | ✅ | ☐ | ☐ |
+| 2 | **Learning Ability** | Acquiring new knowledge, fast learner. | ☐ | ✅ | ☐ |
+| 3 | **Proactiveness** | Self-studying, taking initiative without waiting for instructions. | ✅ | ☐ | ☐ |
+| 4 | **Sense of Responsibility** | Completing tasks on time, ensuring work quality. | ✅ | ☐ | ☐ |
+| 5 | **Discipline** | Adhering to working hours, company rules, and workflows. | ✅ | ☐ | ☐ |
+| 6 | **Eagerness to Learn** | Open to feedback and willing to self-improve. | ☐ | ✅ | ☐ |
+| 7 | **Communication** | Presenting ideas and reporting tasks clearly. | ☐ | ✅ | ☐ |
+| 8 | **Teamwork** | Collaborating effectively with colleagues, participating in group activities. | ✅ | ☐ | ☐ |
+| 9 | **Professionalism** | Respecting colleagues, partners, and the work environment. | ✅ | ☐ | ☐ |
+| 10 | **Problem-Solving Skills** | Identifying issues, proposing solutions, showing creativity. | ☐ | ✅ | ☐ |
+| 11 | **Contribution** | Work efficiency, process improvement initiatives, team recognition. | ✅ | ☐ | ☐ |
+| 12 | **Overall Assessment** | General evaluation of the entire internship period. | ✅ | ☐ | ☐ |
 
-## Areas for Improvement
+### Areas for Improvement
 
-- Continue deepening my knowledge of AWS architecture and cloud services used in enterprise environments.
-- Gain more practical experience in designing and deploying secure, scalable, and cost-optimized cloud solutions.
-- Improve my communication and presentation skills during technical discussions and collaborative projects.
-- Continue exploring Artificial Intelligence, Generative AI, and Amazon Bedrock to develop more advanced AI-powered cloud solutions.
-- Pursue AWS certifications to strengthen my professional knowledge and better prepare for a future career in cloud computing.
+Reflecting on the entire internship process, besides the achievements, I recognize a few areas that require further focus and improvement to advance my career:
+
+* **Time Management & Discipline:** Need to cultivate a stricter work ethic and optimize time allocation for tasks to ensure absolute compliance with the company's and organization's regulations.
+* **Problem-Solving:** Continue to enhance logical analysis skills and sharpen reflexes when dealing with complex bugs or approaching macro-level system requirements.
+* **Communication & Interpersonal Skills:** Learn to articulate ideas more concisely and professionally in a corporate environment, while improving situational awareness and adaptability during team collaborations.

@@ -48,9 +48,7 @@ This section deploys the following AWS resources:
 - Amazon SQS
 - IAM Roles
 
-> **Figure 5.3 - Infrastructure Architecture**
 
-*(Insert Infrastructure Architecture Diagram Here)*
 
 ---
 
